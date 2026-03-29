@@ -1,23 +1,44 @@
-## Hi there 👋
+<h1 align="center">Hi 👋 I'm Ms. Iqbal</h1>
+<p align="center">Turning data into meaningful insights and building intelligent systems 🤖</p>
+
+
+## 🚀 About Me
+- 🔭 Currently building **end-to-end Data Science & AI / Machine Learning projects**
+- 🌱 Learning **Deep Learning, NLP, and MLOps**
+- 👯 Open to collaborating on **Machine Learning & AI Engineering Projects**  
+- 🤝 Seeking guidance on scalable **AI Systems and Real-World Deployment**  
+- 💬 Ask me about **Python, Data Analysis, Machine Learning**  
+- ⚡ Fun fact: I enjoy solving real-world problems with data  
+
+
+## 🧠 Skills & Tools
+
+### 👨‍💻 Programming
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+### 📊 Data Science
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-F9766D?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-77AADD?style=for-the-badge&logo=seaborn&logoColor=white)
+
+### 🤖 Machine Learning
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+- Regression | Classification | Clustering
+
+### 🧠 Deep Learning
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
 
 <!--
-**iqbalsh1/iqbalsh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 📌 Featured Projects
+- 🔹 **Project 1** –   
+- 🔹 **Project 2** –  
+- 🔹 **Project 3** –  
 -->
 
-🔭 I’m currently building end-to-end data science and AI projects  
-👯 I’m open to collaborating on machine learning and AI engineering projects  
-🤝 I’m seeking guidance on scalable AI systems and real-world deployment  
-🌱 I’m currently mastering deep learning, NLP, and MLOps  
-💬 Ask me about Python, data science workflows, and model building  
-⚡ Fun fact: I enjoy solving real-world problems with data  
+
