@@ -42,6 +42,5 @@
 
 ## 📊 GitHub Stats
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=iqbalsh1&show_icons=true&theme=radical"/> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iqbalsh1&theme=radical"/> </p>
+  <img src="https://github-readme-stats.vercel.app/api?username=iqbalsh1&show_icons=true&theme=radical"/> </p>
 
