@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently building end-to-end data science and AI projects  
+👯 I’m open to collaborating on machine learning and AI engineering projects  
+🤝 I’m seeking guidance on scalable AI systems and real-world deployment  
+🌱 I’m currently mastering deep learning, NLP, and MLOps  
+💬 Ask me about Python, data science workflows, and model building  
+⚡ Fun fact: I enjoy solving real-world problems with data  
