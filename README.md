@@ -17,17 +17,17 @@
 ![SQL](https://img.shields.io/badge/-SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-### Data Science
+### 📊 Data Science
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-F9766D?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-77AADD?style=for-the-badge&logo=seaborn&logoColor=white)
 
-### Machine Learning
+### 🤖 Machine Learning
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 - Regression | Classification | Clustering
 
-### Deep Learning
+### 🧠 Deep Learning
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -40,4 +40,8 @@
 - 🔹 **Project 3** –  
 -->
 
+## 📊 GitHub Stats
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=iqbalsh1&show_icons=true&theme=radical"/> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iqbalsh1&theme=radical"/> </p>
 
