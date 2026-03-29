@@ -3,12 +3,12 @@
 
 
 ## About Me
-🔭 Currently building **end-to-end Data Science & AI / Machine Learning projects** 
-🌱 Learning **Deep Learning, NLP, and MLOps** 
-👯 Open to collaborating on **Machine Learning & AI Engineering Projects**  
-🤝 Seeking guidance on scalable **AI Systems and Real-World Deployment**  
-💬 Ask me about **Python, Data Analysis, Machine Learning**  
-⚡ Fun fact: I enjoy solving real-world problems with data  
+- Currently building **end-to-end Data Science & AI / Machine Learning projects**
+- Learning **Deep Learning, NLP, and MLOps**
+- Open to collaborating on **Machine Learning & AI Engineering Projects**  
+- Seeking guidance on scalable **AI Systems and Real-World Deployment**  
+- Ask me about **Python, Data Analysis, Machine Learning**  
+- Fun fact: I enjoy solving real-world problems with data  
 
 
 ## Skills & Tools
