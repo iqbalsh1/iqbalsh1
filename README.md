@@ -43,6 +43,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=iqbalshanza&background=181028&ring=D946EF&fire=00F0FF&currStreakLabel=D946EF&sideLabels=A78BFA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A78BFA"/>
+  <img src="https://streak-stats.demolab.com?user=iqbalsh1&background=181028&ring=D946EF&fire=00F0FF&currStreakLabel=D946EF&sideLabels=A78BFA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A78BFA"/>
 </p>
 
