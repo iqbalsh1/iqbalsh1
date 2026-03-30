@@ -4,7 +4,7 @@
 
 ## About Me
 - 🔭 Currently building **end-to-end Data Science & AI / Machine Learning projects**
-- 🌱 Learning **Deep Learning, NLP, and MLOps**
+- 🌱 Learning **Deep Learning, NLP, and ML**
 - 👯 Open to collaborating on **Machine Learning & AI Engineering Projects**  
 - 🤝 Seeking guidance on scalable **AI Systems and Real-World Deployment**  
 - 💬 Ask me about **Python, Data Analysis, Machine Learning**  
