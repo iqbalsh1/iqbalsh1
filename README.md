@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋 I'm Ms. Iqbal</h1>
-<p align="left">Turning data into meaningful insights and building intelligent systems 🤖</p>
+<p align="left">Turning data into meaningful insights and building intelligent systems</p>
 
 
 ## About Me
