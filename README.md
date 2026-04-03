@@ -33,9 +33,10 @@
 
 
 <!--
-## 📌 Featured Projects
+## 📌 Featured Projects Description
 - 🔹 **Project 1** –   
 - 🔹 **Project 2** –  
+- 🔹 **Project 3** –  
 -->
 
 ## 📊 GitHub Stats
