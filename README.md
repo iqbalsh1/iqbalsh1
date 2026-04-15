@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋 I'm Shanza Iqbal</h1>
+<h1 align="left">Hi 👋 I'm ShanZa Iqbal</h1>
 <p align="left">I turn data into meaningful insights and building intelligent systems that drive smarter decisions.</p>
 
 
