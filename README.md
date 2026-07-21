@@ -9,7 +9,7 @@
 Working at the intersection of **data analysis**, **machine learning**, and **applied AI / LLM engineering**. I build **end-to-end**: from cleaning and analysing data, to designing **reproducible ML pipelines** and **production-style conversational AI** apps.
 
 - 🔭 Building **Generative AI** apps - **RAG** assistants, **AI agents**, and multi-provider **LLM** tooling
-- ✅ Focused on **grounded, reliable AI**: my assistants answer from real data and say *"I don't know"* rather than hallucinate
+- ✅ Focusing on **grounded, reliable AI and AI Agents/Multi Agents**
 - 📊 Bridging analytics and AI: **EDA · statistical analysis · Power BI / Tableau dashboards · model evaluation**
 - 🌱 Going deeper into **Deep Learning, NLP, LLM engineering, and AI agents**
 - 💬 Happy to talk **Python · SQL · Data Science · Machine Learning · LLMs**
