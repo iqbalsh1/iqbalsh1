@@ -1,4 +1,4 @@
-<h1 align="center">Iqbal Shanda</h1>
+<h1 align="center">Iqbal Shanda 😊 </h1>
 <p align="center">
   <b>AI Engineer  · Data Scientist · Data Analyst</b><br>
   I turn messy, real-world data into clear decisions and research ideas into working AI systems.
@@ -56,19 +56,19 @@ Working at the intersection of **data analysis**, **machine learning**, and **ap
 
 ### Projects
 
-#### [AskVista — Local RAG Policy Assistant](https://github.com/iqbalsh1/AskVista)
+#### [AskVista - Local RAG Policy Assistant](https://github.com/iqbalsh1/AskVista)
 `RAG` · `Privacy-first / offline` · `Conversational AI`
-Ask plain-English questions about a company policy PDF and get **grounded, cited answers** — running **100% locally** with no API keys or data leaving the machine. Embeds documents once into a persistent vector store and reuses them across sessions.
+Ask plain-English questions about a company policy PDF and get **grounded, cited answers** - running **100% locally** with no API keys or data leaving the machine. Embeds documents once into a persistent vector store and reuses them across sessions.
 **Stack:** LangChain · Ollama (llama3.2) · ChromaDB · Streamlit · PyPDF
 
-#### [Vienna City Info Bot — Context-Grounded City Assistant](https://github.com/iqbalsh1/vienna-city-info-bot)
+#### [Vienna City Info Bot - Context-Grounded City Assistant](https://github.com/iqbalsh1/vienna-city-info-bot)
 `Grounded LLM` · `Location / POI data` · `NLP`
-A conversational tourism assistant that answers natural-language questions about Vienna using **only a curated points-of-interest dataset** — filters by category, injects the top matches as context, and never invents places.
+A conversational tourism assistant that answers natural-language questions about Vienna using **only a curated points-of-interest dataset** - filters by category, injects the top matches as context, and never invents places.
 **Stack:** Python · OpenAI GPT-4o-mini · pandas
 
-#### [Weather Travel Advisor Bot — Real-Time Data + LLM](https://github.com/iqbalsh1/weather-travel-advisor-bot)
+#### [Weather Travel Advisor Bot - Real-Time Data + LLM](https://github.com/iqbalsh1/weather-travel-advisor-bot)
 `Live API integration` · `LLM` · `Real-time data`
-Pulls **live weather** for any city and turns it into personalised, actionable advice (activities, what to wear, what to avoid) — a clean example of fusing a real-time API with an LLM.
+Pulls **live weather** for any city and turns it into personalised, actionable advice (activities, what to wear, what to avoid) - a clean example of fusing a real-time API with an LLM.
 **Stack:** Python · OpenAI GPT-4o-mini · OpenWeatherMap API
 
 <details>
