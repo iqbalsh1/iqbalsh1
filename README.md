@@ -1,4 +1,4 @@
-<h1 align="center">Iqbal Shanda 😊 </h1>
+<h1 align="center">IQBAL Shanda 😊 </h1>
 <p align="center">
   <b>AI Engineer  · Data Scientist · Data Analyst</b><br>
   I turn messy, real-world data into clear decisions and research ideas into working AI systems.
